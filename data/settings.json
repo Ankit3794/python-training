@@ -1,0 +1,6 @@
+{
+  "url": "https://www.google.co.in",
+  "browser": "chrome",
+  "wait_time": 30,
+  "timeout": 120
+}
